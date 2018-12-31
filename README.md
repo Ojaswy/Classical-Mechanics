@@ -29,5 +29,6 @@ Eventually the library will include type-agnostic integration routines as well.
 Get the book [here](http://mitpress.mit.edu/sicm/).
 
 ## Authors
-Authored by Chris Taylor.
-I'm just here to make this more fun!
+Initially authored by Chris Taylor.
+
+
