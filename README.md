@@ -31,7 +31,6 @@ Get the book [here](http://mitpress.mit.edu/sicm/).
 ## Authors
 Initially authored by Chris Taylor.
 
-Version 2.1.1 under construnction by Ojaswy Akella.
 
 
 
