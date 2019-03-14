@@ -1,5 +1,5 @@
 # Structure and Interpretation of Classical Mechanics
-
+ 
 ## What is this project? 
 
 At its core, it is an implementation of the book *Structure and Interpretation of Classical Mechanics* by Gerald Jay Sussman and Jack Wisdom.
